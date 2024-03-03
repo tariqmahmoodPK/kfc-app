@@ -1,0 +1,58 @@
+export const products = [
+    {
+      id: 1,
+      title: "Krunch Burger",
+      desc: "1 Krunch burger + 1 Regular fries + 1 Regular drink",
+      price: 270,
+      image: "/krunch-burger.png",
+    },
+    {
+      id: 2,
+      title: "Krunch Combo",
+      desc: "Our hero- crispy Zinger fillet, signature mayo and lettuce- ",
+      price: 520,
+      image: "Krunch-Combo.png",
+    },
+    {
+      id: 3,
+      title: "Hot Wings Bucket",
+      desc: "10 Pcs of our Signature Hot & Crispy Wings",
+      price: 610,
+      image: "/Hot-wings.png",
+    },
+    {
+      id: 4,
+      title: "Mighty Zinger",
+      desc: "Our signature Zinger but Bigger! Double Zinger fillet ..",
+      price: 700,
+      image: "/Mighty-Zinger.png",
+    },
+    {
+      id: 5,
+      title: "Krunch Burger + Drink",
+      desc: "Krunch Zinger+ 1 Regular drink",
+      price: 370,
+      image: "/krunch-burger-drink.png",
+    },
+    {
+      id: 6,
+      title: "Zinger Stacker",
+      desc: "1 Zinger Stacker + 1 Regular fries + 1 Regular drink",
+      price: 850,
+      image: "/Zinger-Stacker.png",
+    },
+    {
+      id: 7,
+      title: "Zinger Stacker",
+      desc: "1 Zinger Stacker + 1 Regular fries + 1 Regular drink",
+      price: 850,
+      image: "/Zinger-Stacker.png",
+    },
+    {
+      id: 8,
+      title: "Zinger Stacker",
+      desc: "1 Zinger Stacker + 1 Regular fries + 1 Regular drink",
+      price: 850,
+      image: "/Zinger-Stacker.png",
+    },
+  ];
